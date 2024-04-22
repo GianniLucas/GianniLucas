@@ -4,7 +4,7 @@
 
 [<img width="400px" height="250px" src="https://s9.gifyu.com/images/SZaQL.gif" />][website]
 
-### 👨‍💻 Computer Engeener & 🎮 Game Player
+### 👨🏻‍💻 Computer Engeener & 🎮 Game Player
 
 - 🔭 I’m currently working on a [Cespi][website-work]
 - 🌱 I’m currently learning more about web dev
