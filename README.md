@@ -2,14 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgianni-lucas-cerda%2F?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&label=Gianni%20Lucas%20Cerd%C3%A1)](https://www.linkedin.com/in/gianni-lucas-cerda/)
 
-[<img width="600px" height="300px" src="https://s9.gifyu.com/images/SZaQL.gif" />][website]
+[<img width="400px" height="250px" src="https://s9.gifyu.com/images/SZaQL.gif" />][website]
 
-### 💻 Web Developer 🌱Father and Vegan
+### 👨‍💻 Computer Engeener & 🎮 Game Player
 
-- 🔭 I’m currently working on a [Courses or YT][website]
+- 🔭 I’m currently working on a [Cespi][website-work]
 - 🌱 I’m currently learning more about web dev
 - 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
 - 😄 Pronouns: 'he/him'
 - ⚡ Fun fact: I love videogames but no time to play (thats fun)
 
@@ -40,8 +39,15 @@
 
 ### 🎧 Spotify Playing
 
-<iframe src="https://6klabs.com/widget/spotify/fc82828a4dd459db54b74d7f8b723f3854f6d3c72280eaf5e05070aa93eefe9f" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br>
+
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=giannilucas&cover_image=true&theme=default&show_offline=false&background_color=6a0606&interchange=false&bar_color_cover=false">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=giannilucas&cover_image=true&theme=default&show_offline=false&background_color=6a0606&interchange=false&bar_color_cover=false" width="175px"/>
+</a>
+</p>
 
 
 <!-- LINKS -->
 [website]:https://glcportfolio.vercel.app/
+[website-work]:https://www.cespi.unlp.edu.ar/
