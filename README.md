@@ -31,6 +31,7 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br/>
@@ -40,7 +41,7 @@
 ### 🎧 Spotify Playing
 
 
-<object data=https://6klabs.com/widget/spotify/fc82828a4dd459db54b74d7f8b723f3854f6d3c72280eaf5e05070aa93eefe9f width=”650″ height=”500″> <embed src=https://6klabs.com/widget/spotify/fc82828a4dd459db54b74d7f8b723f3854f6d3c72280eaf5e05070aa93eefe9f width=”650″ height=”500″> </embed></object>
+[<img src="https://6klabs.com/widget/spotify/fc82828a4dd459db54b74d7f8b723f3854f6d3c72280eaf5e05070aa93eefe9f" alt="Gianni Lucas spotify playing" width="350" />]()
 
 <!-- LINKS -->
 
