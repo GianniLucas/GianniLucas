@@ -40,15 +40,8 @@
 
 ### 🎧 Spotify Playing
 
+<iframe src="https://6klabs.com/widget/spotify/fc82828a4dd459db54b74d7f8b723f3854f6d3c72280eaf5e05070aa93eefe9f" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-[<img src="https://6klabs.com/widget/spotify/fc82828a4dd459db54b74d7f8b723f3854f6d3c72280eaf5e05070aa93eefe9f" alt="Gianni Lucas spotify playing" width="350" />]()
 
 <!-- LINKS -->
-
-[website]: https://naviscode.com/
-[yt]: https://www.youtube.com/channel/UC9tcfsScui3S70hp_wC_EPw?sub_confirmation=1
-[blog]: https://blog.naviscode.com/
-
-
-<!-- Links -->
 [website]:https://glcportfolio.vercel.app/
