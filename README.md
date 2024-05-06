@@ -1,4 +1,5 @@
-### Hi [Gianni Lucas Code][website] here 👋
+<h1 align="center">Hi 👋, I'm Gianni Lucas Cerdá</h1>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 [![Linkedin](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgianni-lucas-cerda%2F?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&label=Gianni%20Lucas%20Cerd%C3%A1)](https://www.linkedin.com/in/gianni-lucas-cerda/)
 
