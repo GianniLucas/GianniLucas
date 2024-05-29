@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 Computer Engeener & 🎮 Game Player
 
-- 🔭 I’m currently working on a [Cipbyte][website-work1] & [CeSPI][website-work2]  
+- 🔭 I’m currently working on a [Cipbyte][website-work2] & [CeSPI][website-work1]  
 - 🌱 I’m currently learning more about web dev
 - 👯 I’m looking to collaborate webinar,meetup...
 - 😄 Pronouns: 'he/him'
