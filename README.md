@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgianni-lucas-cerda%2F?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&label=Gianni%20Lucas%20Cerd%C3%A1)](https://www.linkedin.com/in/gianni-lucas-cerda/)
 
-[<img width="400px" height="250px" src="https://s9.gifyu.com/images/SZaQL.gif" />][website]
+[<img src="https://s10.gifyu.com/images/SDQFW.gif" />][website]
 
 ### 👨🏻‍💻 Computer Engeener & 🎮 Game Player
 
