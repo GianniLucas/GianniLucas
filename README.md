@@ -29,16 +29,16 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-  <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-  <img alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
-  <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-  <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-  <img alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-  <img alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
-  <img alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-  <img alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
-  <img alt="Spring Boot" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 
 ---
